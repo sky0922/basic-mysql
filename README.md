@@ -27,7 +27,7 @@
 ![GITHUB]( https://github.com/sky0922/basic-mysql/blob/main/04.jpg)
 
 **五、**<br>
-使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。<br>
+使用 SQL 指令，並按照 time 欄位，由近到遠排序後，取出 2-4 筆資料。<br>
 ![GITHUB]( https://github.com/sky0922/basic-mysql/blob/main/05.jpg)
 
 **六、**<br>
