@@ -46,3 +46,22 @@
 使用 DELETE 指令刪除所有在 user 資料表中的資料。<br>
 ![GITHUB]( https://github.com/sky0922/basic-mysql/blob/main/09.jpg)
 
+<hr>
+
+**結合資料表 SQL JOIN 的操作 (Optional)**<br>
+建立名稱為 message 的資料表，並完成指定條件。<br>
+![GITHUB]( https://github.com/sky0922/basic-mysql/blob/main/10.jpg)
+
+確認資料表格式是否正確及另外兩個資料表內容<br>
+![GITHUB]( https://github.com/sky0922/basic-mysql/blob/main/11.jpg)
+
+
+**一、**<br>
+使用 SELECT 搭配 JOIN 的語法，取得所有留言，資料中須包含留言會員的姓名。<br>
+![GITHUB]( https://github.com/sky0922/basic-mysql/blob/main/12.jpg)
+
+**二、**<br>
+使用 SELECT 搭配 JOIN 的語法，<br>
+取得 user 資料表中欄位 username 是 ply 的所有留言，<br>
+資料中須包含留言會員的姓名。<br>
+![GITHUB]( https://github.com/sky0922/basic-mysql/blob/main/13.jpg)
